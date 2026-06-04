@@ -1,0 +1,18 @@
+[
+  {
+    "type": "FACE_DISAPPEARED",
+    "timestamp": "20260604_123845_866243",
+    "metadata": {
+      "duration": "5+ seconds",
+      "frame": {
+        "face_present": false,
+        "gaze_direction": "center",
+        "eye_ratio": 0.2977858921791391,
+        "mouth_moving": false,
+        "multiple_faces": false,
+        "objects_detected": false,
+        "timestamp": "2026-06-04 12:38:44"
+      }
+    }
+  }
+]
