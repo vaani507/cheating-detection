@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment files
+.env
+
+# Videos and recordings
+recordings/
+*.mp4
+
+# Generated reports
+reports/generated/
+
+# Node
+node_modules/
